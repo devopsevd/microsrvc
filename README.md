@@ -11,7 +11,7 @@ Read Me:
 4) Run container
 #docker run -it --rm -p 8080:8080 go_microservice
 
-Using scratch
+Using scratch :
 1) Build using scratch
 #docker build -t go_microsvc_scratch -f Dockerfile.scratch .
 2) Run container
