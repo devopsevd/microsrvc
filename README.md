@@ -9,4 +9,4 @@ Read Me:
 #docker build -t go_microservice .
 
 4) Run container
-#docker run -it --rm go_microservice
+#docker run -it --rm -p 8080:8080 go_microservice
