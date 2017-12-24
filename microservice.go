@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/devopsevd/microsrvc/api"
+	"./api"
 )
 
 func main() {
