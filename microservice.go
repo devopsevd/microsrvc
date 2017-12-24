@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/devopsevd/microsrvc/api"
+	"github.com/lreimer/cloud-native-go/api"
 )
 
 func main() {
